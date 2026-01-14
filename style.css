@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    background-color:lightblue;
+}
+
+header {
+    font-family: aster;
+    background-color: brown;
+}
+
+footer {
+    font-family: papyrus;
+    background-color: red;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    float:left;
+}
+
+p {
+    text-align: center;
+}
